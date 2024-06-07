@@ -26,7 +26,7 @@ const Hero = () => {
                     />
 
                     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                        Hi, I'm QAISS Abdelhamid, a web developer with a deep passion for development. I'm excited to share my skills and expertise!
+                        Hi, I&apos;m QAISS Abdelhamid, a web developer with a deep passion for development. I&apos;m excited to share my skills and expertise!
                     </p>
 
                     <a href="#about">
