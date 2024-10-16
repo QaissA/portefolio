@@ -206,6 +206,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/QaissA",
   },
   {
     id: 2,
@@ -214,5 +215,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/abdelhamid-qaiss-8a3124145/",
   },
 ];
